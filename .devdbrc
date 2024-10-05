@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/antoniojose/Projects/go/graphql/database.db"
+  }
+]
